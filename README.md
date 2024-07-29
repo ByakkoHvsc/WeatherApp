@@ -1,6 +1,7 @@
-# WeatherApp
-
-## Overview
+<div align="center">
+  <img src="Weather_logo.svg" alt="Weather_logo" style="width: 250px;"/>
+    <h1>WeatherApp</h1>
+</div>
 
 This Swift-based project leverages the OpenWeatherMap API to fetch real-time weather data based on the user's location. It displays essential weather information including temperature, humidity, and wind speed.
 
