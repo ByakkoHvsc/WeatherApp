@@ -28,3 +28,7 @@ This Swift-based project leverages the OpenWeatherMap API to fetch real-time wea
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
+
+## Disclaimer
+
+This project is a recreation of an existing project for educational purposes. All credits go to the original creators.
